@@ -1,0 +1,9 @@
+mpyesp8266:
+  lookup:
+    proxytype: mpyesp8266
+
+  proxyminion:
+    one:
+      device: /dev/ttyUSB0
+    another:
+      device: /dev/ttyUSB1
